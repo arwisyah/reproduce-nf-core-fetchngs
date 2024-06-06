@@ -1,0 +1,84 @@
+sample_names_rename_buttons:
+  - sample
+  - experiment_accession
+  - run_accession
+  - sample_accession
+  - experiment_alias
+  - run_alias
+  - sample_alias
+  - experiment_title
+  - sample_title
+  - sample_description"
+sample_names_rename:
+  - [
+      "DRX024467",
+      "DRX024467",
+      "DRR026872",
+      "SAMD00023098",
+      "DRX024467",
+      "DRR026872",
+      "SAMD00023098",
+      "Illumina HiSeq 2500 sequencing: Illumina HiSeq 2500 sequencing of SAMD00023098",
+      "F2 plant dreived from a cross between Tokyo Kokei-standard and Africa #21",
+      "Keywords: GSC:MIxS MIGS:6.0",
+    ]
+  - [
+      "DRX026011",
+      "DRX026011",
+      "DRR028935",
+      "SAMD00024405",
+      "DRX026011",
+      "DRR028935",
+      "SAMD00024405",
+      "Illumina HiSeq 2500 paired end sequencing: Illumina HiSeq 2500 paired end sequencing of SAMD00024405",
+      "Botryococcus braunii Showa at day 0 after inoculation into fresh culture medium",
+      "Liquid culture",
+    ]
+  - [
+      "ERX1188904",
+      "ERX1188904",
+      "ERR1109373",
+      "SAMEA3643867",
+      "ena-EXPERIMENT-CAM-03-11-2015-17:01:52:847-7",
+      "ena-RUN-CAM-03-11-2015-17:01:52:847-7",
+      "sample_56",
+      "Illumina HiSeq 2500 paired end sequencing",
+      "RNA-Seq reads mapped onto L. Boulardi Toti-like virus genome",
+      "RNA-Seq reads mapped onto L. Boulardi Toti-like virus genome",
+    ]
+  - [
+      "ERX1234253",
+      "ERX1234253",
+      "ERR1160846",
+      "SAMEA3687214",
+      "qiita_ptid_1263:10317.BLANK.93.3E.r22",
+      "qiita_ppdid_706:10317.BLANK.93.3E.r22",
+      "qiita_sid_10317:10317.BLANK.93.3E.r22",
+      "Illumina HiSeq 2500 sequencing: qiita_ptid_1263:10317.BLANK.93.3E.r22",
+      "10317.BLANK.93.3E.r22",
+      "American Gut control",
+    ]
+  - [
+      "SRX6725035",
+      "SRX6725035",
+      "SRR9984183",
+      "SAMN12581720",
+      "Emb289P1_bin131",
+      "Emb289P1_bin131.fastq",
+      "Emb289P1_bin131",
+      "Illumina HiSeq 2500 sequencing: Binning of metagenomic reads from the P1 gut compartment of Embiratermes neotenicus",
+      "MIMAG Metagenome-assembled Genome sample from Defluviitaleaceae bacterium",
+      "Keywords: GSC:MIxS MIMAG:5.0",
+    ]
+  - [
+      "SRX9626017",
+      "SRX9626017",
+      "SRR13191702",
+      "SAMN16980141",
+      "S.170804.00784",
+      "S.170804.00784_662_L001_R1_001.fastq.gz",
+      "S.170804.00784_662",
+      "Illumina HiSeq 2500 sequencing: Stool Microbiome Features to Discriminate Clostridium Difficile Colonization and Infection",
+      "Metagenome or environmental sample from human gut metagenome",
+      "Metagenome or environmental sample from human gut metagenome",
+    ]
