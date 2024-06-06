@@ -5,7 +5,7 @@ This guide will walk you through setting up and running the `nf-core/fetchngs` N
 ## Prerequisites
 
 1. **Gitpod Account**: Make sure you have an account on [Gitpod](https://www.gitpod.io/).
-2. **Fork the Repository**: Fork the [nf-core/fetchngs](https://github.com/nf-core/fetchngs) repository to your GitHub account.
+2. **Fork the Repository**: Fork the [nf-core/fetchngs](https://github.com/nf-core/fetchngs) repository to your GitHub workspace.
 
 ## Setup
 
