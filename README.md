@@ -50,28 +50,6 @@ This guide will walk you through setting up and running the `nf-core/fetchngs` N
    find work -name '.command.log' -exec cat {} \;
    ```
 
-## Troubleshooting
-
-If you encounter any issues, consider the following steps:
-
-1. **Check Docker Permissions**: Ensure Docker is running and you have the necessary permissions.
-
-   ```sh
-   docker run hello-world
-   ```
-
-2. **Increase Retry Attempts**: You can increase the number of retry attempts if tasks are failing.
-
-   ```sh
-   nextflow run nf-core/fetchngs -profile docker --input ids.csv --outdir output --download_method sratools -resume -retry 3
-   ```
-
-3. **Review Detailed Error Logs**: Check the `.command.err` and `.command.out` files in the work directory for detailed error messages.
-   ```sh
-   find work -name '.command.err' -exec cat {} \;
-   find work -name '.command.out' -exec cat {} \;
-   ```
-
 ## Citations
 
 The nf-core framework for community-curated bioinformatics pipelines.
